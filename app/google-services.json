@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "536155473690",
+    "firebase_url": "https://ladm-u3-practicas.firebaseio.com",
+    "project_id": "ladm-u3-practicas",
+    "storage_bucket": "ladm-u3-practicas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536155473690:android:878e5cbfb8160455fdcea3",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_practica_martinbaez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536155473690-mq60tcettra30b7df8jjhl1spmi2m82c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmvDVCtIM5AtSzZsboaxpu6ZRsjbS9E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536155473690-mq60tcettra30b7df8jjhl1spmi2m82c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536155473690:android:877db36151a1abacfdcea3",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_prctica1_autocontestadora_martnbez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536155473690-mq60tcettra30b7df8jjhl1spmi2m82c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJmvDVCtIM5AtSzZsboaxpu6ZRsjbS9E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536155473690-mq60tcettra30b7df8jjhl1spmi2m82c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
